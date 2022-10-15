@@ -1,5 +1,5 @@
 # Authentication-App
-- App in which I practiced concepts of user authentication.
+- Basic app in which I practiced concepts of user authentication.
 - This is a simple app which uses a dummy backend database of Firebase, and operates as a Sign In / Log In page for users.
 
 ### Subjects covered
